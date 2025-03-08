@@ -1,6 +1,8 @@
-<h1><b>Hi , I'm Agustin Sala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</b></h1>
+<h1><b>Hi , I'm Agustin Sala <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="44" align="center">
 <div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 <b>
 
@@ -43,5 +45,5 @@
 <br>
 </b>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>

@@ -32,7 +32,7 @@
    <a href="mailto:agustinsala1996@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> <br>
 
 
- **Stats** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" align="center">
+ **Stats** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26px" align="center">
  
 <a href="https://github.com/agustinsala1996"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinsala1996&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="agustinsala1996 github stats" height="220px"/></a>
 <a href="https://github.com/agustinsala1996"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinsala1996&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/></a>

@@ -2,7 +2,7 @@
 <div>
 <b>
 
- **Languages and Tools** &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" align="center">
+ **Languages and Tools** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" align="center">
     
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -19,7 +19,7 @@
    
 <br>
 
- **Learning** &nbsp; <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="24px" align="center"> 
+ **Learning** <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="24px" align="center"> 
 
    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -27,12 +27,12 @@
    
 <br>
 
- **Contact** &nbsp; <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="36px" align="center">
+ **Contact** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="36px" align="center">
   
    <a href="mailto:agustinsala1996@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> <br>
 
 
- **Stats** &nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" align="center">
+ **Stats** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" align="center">
  
 <a href="https://github.com/agustinsala1996"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinsala1996&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="agustinsala1996 github stats" height="220px"/></a>
 <a href="https://github.com/agustinsala1996"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinsala1996&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/></a>
